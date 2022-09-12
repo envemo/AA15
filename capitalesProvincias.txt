@@ -1,0 +1,53 @@
+ID_USUARIO: 1 Nombre usuario: Vergara, Enrique Fecha: 2022-09-12
+- Capital: A Coruña, Provincia: A Coruña
+- Capital: Alacant, Provincia: Alacant
+- Capital: Albacete, Provincia: Albacete
+- Capital: Almería, Provincia: Almería
+- Capital: Araba, Provincia: Araba
+- Capital: Asturias, Provincia: Asturias
+- Capital: Badajoz, Provincia: Badajoz
+- Capital: Barcelona, Provincia: Barcelona
+- Capital: Bizkaia, Provincia: Bizkaia
+- Capital: Burgos, Provincia: Burgos
+- Capital: Cantabria, Provincia: Cantabria
+- Capital: Castelló, Provincia: Castelló
+- Capital: Ceuta, Provincia: Ceuta
+- Capital: Ciudad Real, Provincia: Ciudad Real
+- Capital: Cuenca, Provincia: Cuenca
+- Capital: Cáceres, Provincia: Cáceres
+- Capital: Cádiz, Provincia: Cádiz
+- Capital: Córdoba, Provincia: Córdoba
+- Capital: Gipuzcoa, Provincia: Gipuzcoa
+- Capital: Girona, Provincia: Girona
+- Capital: Granada, Provincia: Granada
+- Capital: Guadalajara, Provincia: Guadalajara
+- Capital: Huelva, Provincia: Huelva
+- Capital: Huesca, Provincia: Huesca
+- Capital: Illes Balears, Provincia: Illes Balears
+- Capital: Jaén, Provincia: Jaén
+- Capital: La Rioja, Provincia: La Rioja
+- Capital: Las Palmas, Provincia: Las Palmas
+- Capital: León, Provincia: León
+- Capital: Lleida, Provincia: Lleida
+- Capital: Lugo, Provincia: Lugo
+- Capital: Madrid, Provincia: Madrid
+- Capital: Melilla, Provincia: Melilla
+- Capital: Murcia, Provincia: Murcia
+- Capital: Málaga, Provincia: Málaga
+- Capital: Navarra, Provincia: Navarra
+- Capital: Ourense, Provincia: Ourense
+- Capital: Palencia, Provincia: Palencia
+- Capital: Pontevedra, Provincia: Pontevedra
+- Capital: Salamanca, Provincia: Salamanca
+- Capital: Santa Cruz de Tenerife, Provincia: Santa Cruz de Tenerife
+- Capital: Segovia, Provincia: Segovia
+- Capital: Sevilla, Provincia: Sevilla
+- Capital: Soria, Provincia: Soria
+- Capital: Tarragona, Provincia: Tarragona
+- Capital: Teruel, Provincia: Teruel
+- Capital: Toledo, Provincia: Toledo
+- Capital: Valladolid, Provincia: Valladolid
+- Capital: València, Provincia: València
+- Capital: Zamora, Provincia: Zamora
+- Capital: Zaragoza, Provincia: Zaragoza
+- Capital: Ávila, Provincia: Ávila
